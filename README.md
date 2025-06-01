@@ -1,5 +1,5 @@
 # jazz-midi
-MIDI support for Node.js and browsers
+A cross platform MIDI library for for Node.js and browsers.
 
 See also: [Web MIDI API](https://github.com/jazz-soft/web-midi)
 
